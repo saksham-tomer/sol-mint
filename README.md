@@ -1,4 +1,5 @@
 ---
+![image](https://github.com/user-attachments/assets/813b2956-b289-420f-89c9-99206aaf99c5)
 
 # NFT Liquidation Platform
 
