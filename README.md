@@ -41,7 +41,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/saksham-tomer/mint-sol.git
+   git clone https://github.com/saksham-tomer/sol-mint.git
    cd nft-liquidation-platform
    ```
 
@@ -88,7 +88,7 @@ This platform is built using:
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/nft-liquidation-platform/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/saksham-tomer/sol-mint/issues).
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/my-feature`)
